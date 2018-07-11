@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameData>
+    <name>Basketball</name>
+    <index>2001</index>
+  </GameData>
+  <GameData>
+    <name>Fruit</name>
+    <index>2002</index>
+  </GameData>
+  <GameData>
+    <name>Nail</name>
+    <index>2003</index>
+  </GameData>
+  <GameData>
+    <name>Dance</name>
+    <index>2004</index>
+  </GameData>
+</ArrayOfGameData>
